@@ -1,4 +1,11 @@
 first_commit
+<<<<<<< HEAD
 from aswin
 
 from aswin 2
+=======
+
+commit to main
+
+may-13 -- line added
+>>>>>>> origin/may13bh
